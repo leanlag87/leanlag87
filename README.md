@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Soy estudiante de la Tecnicatura en Programacion en la UTN - (Universidad Tecnologica Nacional)
+Soy Tecnico Universitario en Programacion Recibido de la UTN - (Universidad Tecnologica Nacional)
 
 
 # 💻 Tech Stack:
